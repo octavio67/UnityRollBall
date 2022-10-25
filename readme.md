@@ -30,6 +30,7 @@ The game has a main menu that allows you to play the full game consisting of two
 ![openUnity](https://user-images.githubusercontent.com/57419892/197755070-32a2d377-67e5-4d2f-a148-d13964edd221.JPG)
 
 - Run the unity project from your Unity Editor
+![openUnity2](https://user-images.githubusercontent.com/57419892/197755741-f51cd36a-fb40-4f52-84a2-10c07b3bf01e.JPG)
 
 - Run from your 'backend' folder: node index.js
 
