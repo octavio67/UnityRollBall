@@ -35,31 +35,7 @@ The game has a main menu that allows you to play the full game consisting of two
 - Run the unity project from your Unity Editor
 ![openUnity2](https://user-images.githubusercontent.com/57419892/197755741-f51cd36a-fb40-4f52-84a2-10c07b3bf01e.JPG)
 
-- Run from your 'backend' folder: node index.js
-
-- Now you have your server running in Backend.
-![backend](https://user-images.githubusercontent.com/57419892/194329213-6c09ca48-3907-41c4-9602-55bdf929cad8.JPG)
-
-- Run from your 'frontend' folder: npm install (install all dependencies needed)
-
-- Run from your 'frontend' folder: ionic serve
-
-- Now you have your app running in Frontend.
-![frontend](https://user-images.githubusercontent.com/57419892/194329276-48188e07-7de4-486d-b0f7-ae98b86fc504.JPG)
-
-![run1](https://user-images.githubusercontent.com/57419892/194329319-faa236a7-a4b2-401b-8219-431dfc034ee9.JPG)
-![run2](https://user-images.githubusercontent.com/57419892/194329341-985af905-f8d0-45fd-a32e-c853a6a1e22b.JPG)
-![run3](https://user-images.githubusercontent.com/57419892/194329356-b4e797e3-450e-4f97-84d4-ba4728eca806.JPG)
-
-
-***POSTMAN***
-
-https://documenter.getpostman.com/view/23300733/2s83zfQ5cU
-
-![postman](https://user-images.githubusercontent.com/57419892/194326294-13c16440-3d8b-4e0d-b41f-b4a1ee948cc4.JPG)
-
-
-***NOTE***
-
-For its perfect operation, when a writer is created, it is necessary to record for each writer, his image with the same name as the 'nombre' field and a flag of his country with the same name as the 'pais' field. These images should be saved in the /backend/public/images folder
-
+- Ingame screenshots
+![unityrun1](https://user-images.githubusercontent.com/57419892/197762320-5186a5ed-13a9-4939-92a7-712bf80e7e13.JPG)
+![unityrun2](https://user-images.githubusercontent.com/57419892/197762369-3a4212c6-d928-4a3c-a074-b5b1e510eed2.JPG)
+![unityrun3](https://user-images.githubusercontent.com/57419892/197762411-a62579d0-d500-407a-8510-41cac1d8c7d1.JPG)
