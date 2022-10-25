@@ -27,6 +27,7 @@ The game has a main menu that allows you to play the full game consisting of two
 - git clone [Repository Link], them you get a 'UnityRollBall-main' folder that contains an Unity Project
 
 - Open UnityHub and select "Open-add project from disk" to find and open your recent Unity Proyect upload from Git
+![openUnity](https://user-images.githubusercontent.com/57419892/197755070-32a2d377-67e5-4d2f-a148-d13964edd221.JPG)
 
 - Run the unity project from your Unity Editor
 
