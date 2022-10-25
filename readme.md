@@ -36,8 +36,7 @@ The game has a main menu that allows you to play the full game consisting of two
 ![openUnity2](https://user-images.githubusercontent.com/57419892/197755741-f51cd36a-fb40-4f52-84a2-10c07b3bf01e.JPG)
 
 - Ingame screenshots
-<p align="center">
 ![unityrun1](https://user-images.githubusercontent.com/57419892/197762320-5186a5ed-13a9-4939-92a7-712bf80e7e13.JPG)
 ![unityrun2](https://user-images.githubusercontent.com/57419892/197762369-3a4212c6-d928-4a3c-a074-b5b1e510eed2.JPG)
 ![unityrun3](https://user-images.githubusercontent.com/57419892/197762411-a62579d0-d500-407a-8510-41cac1d8c7d1.JPG)
-</p>  
+
