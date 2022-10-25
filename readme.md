@@ -24,7 +24,7 @@ The game has a main menu that allows you to play the full game consisting of two
 
 - cd existing_folder
 
-- git clone [Repository Link], them you get a 'UnityRollBall-main' folder that contains an Unity Project
+- git clone --branch main [Repository Link], them you get a 'UnityRollBall' folder that contains an Unity Project
 
 - Copy the contents of this Google Drive folder to the root directory of your "UnityRollBall-main" folder:
   https://drive.google.com/drive/folders/1Heozn2vcK6nQzZ4wKntcXbxbb4ImejGE?usp=sharing
