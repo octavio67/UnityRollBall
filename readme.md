@@ -29,7 +29,7 @@ The game has a main menu that allows you to play the full game consisting of two
 - Open UnityHub and select "Open-add project from disk" to find and open your recent Unity Proyect upload from Git
 ![openUnity](https://user-images.githubusercontent.com/57419892/197755070-32a2d377-67e5-4d2f-a148-d13964edd221.JPG)
 
-- Run the unity project from your Unity Editor
+- Select File-Open Scene from menu and Select Scene Folder and then Menu. Run the unity project from your Unity Editor
 ![openUnity2](https://user-images.githubusercontent.com/57419892/197755741-f51cd36a-fb40-4f52-84a2-10c07b3bf01e.JPG)
 
 ***NOTES***
