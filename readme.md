@@ -35,9 +35,17 @@ The game has a main menu that allows you to play the full game consisting of two
 ***NOTES***
 
 The scenes have a box collider on each wall to prevent the ball from going out of the plane.
+
+
 The points counter is negative to indicate the pickups that remain to be collected.
+
+
 The scene change from 1 to 2 is done by checking if the ball collides with a box collider placed at the scene exit and all pickups have been collected.
+
+
 The game ends in scene 2 checking that all the pickups have been collected.
+
+
 For the ball to jump, a plane is placed on top of each box that simulates a step with its corresponding label to check whether or not the ball is touching the plane to prevent it from jumping more than once when it is in the air.
 
 ***INGAME SCREENSHOTS***
